@@ -1,4 +1,4 @@
-package designpattern.Creational_Patterns;
+package designpattern.Creational_Patterns.Singleton;
 
 /**
  * @author Marwa
