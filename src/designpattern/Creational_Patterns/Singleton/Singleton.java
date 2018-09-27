@@ -8,7 +8,6 @@ public class Singleton {  // lazy construction
     // the class variable is null if no instance is instantiated
     private static Singleton instance = null;
 
-
     private Singleton() {
     
     }
@@ -21,9 +20,6 @@ public class Singleton {  // lazy construction
      }
    
      return instance;
-   
    }
     
-    
-
 }
