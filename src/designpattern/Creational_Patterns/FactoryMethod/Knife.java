@@ -1,4 +1,4 @@
-package factoryobject;
+package designpattern.Creational_Patterns.FactoryMethod;
 
 /**
  *

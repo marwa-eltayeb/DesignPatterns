@@ -9,6 +9,10 @@ package designpattern.Creational_Patterns.FactoryMethod;
  *
  * @author Marwa
  */
-public class BudgetChefsKnife {
+public class BudgetChefsKnife extends Knife{
+    
+    public BudgetChefsKnife() {
+        System.out.println("BudgetChefsKnife");
+    }
     
 }
